@@ -13,8 +13,8 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* ТЗ для тестирования
-* код приложения 
+* [ТЗ для тестирования](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
+* [код приложения ](https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java)
 
   
 В качестве тестовых данных использовались данные из ТЗ:
